@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨  I’m a passionate Full Stack Developer with experience in various frontend and backend technologies.<br>📚 I'm currently learning Python.<br>🎯 Goals: My goal is to leverage my skills to solve complex problems, contribute to high-quality projects.</p>
+<p align="left">✨  I’m a passionate Full Stack Developer with experience in various frontend and backend technologies.<br>📚 I'm currently learning Python. 🐍<br>🎯 Goals: My goal is to leverage my skills to solve complex problems, contribute to high-quality projects.</p>
 
 ###
 
