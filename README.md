@@ -1,12 +1,8 @@
-<h1 align="left">Hi I'm Full Stack Developer</h1>
+<h1 align="left">Hi👾 I'm Sergio Ventua | Full Stack Developer</h1>
 
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<p align="left">My name is Sergio Ventura</p>
 
 ###
 
