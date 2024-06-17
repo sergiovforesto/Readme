@@ -1,4 +1,4 @@
-<h1 align="left">Hi👾 I'm Sergio Ventua | Full Stack Developer</h1>
+<h1 align="left">Hi👋 I'm Sergio Ventua | Full Stack Developer</h1>
 
 ###
 
